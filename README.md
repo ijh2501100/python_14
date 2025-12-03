@@ -100,5 +100,5 @@ print(result)
 ---
 
 ## 3. GitHub Repository URL
-- URL: []
+- URL: [https://github.com/ijh2501100/python_14.git]
 ---
